@@ -1,0 +1,5 @@
+SHOW databses;
+USE database_name;
+
+SHOW tables;
+select * from <table-name>;
